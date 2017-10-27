@@ -13,7 +13,7 @@ object GcdCalculation {
     
     //Read input from standard input by using StdiIn.readInt()
     val firstInput = scala.io.StdIn.readInt()
-    println("Enter First Value: ")
+    println("Enter second Value: ")
     
     //Read input from standard input by using StdiIn.readInt()
     val secondInput = scala.io.StdIn.readInt()
