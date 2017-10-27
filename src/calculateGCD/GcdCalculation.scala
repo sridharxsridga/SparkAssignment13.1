@@ -9,11 +9,11 @@ object GcdCalculation {
   def main(args: Array[String]): Unit = {
 
     println("Enter two values to calculate GCD")
-    println("Enter First Value: ")
+    println("Enter First Value : ")
     
     //Read input from standard input by using StdiIn.readInt()
     val firstInput = scala.io.StdIn.readInt()
-    println("Enter second Value: ")
+    println("Enter second Value : ")
     
     //Read input from standard input by using StdiIn.readInt()
     val secondInput = scala.io.StdIn.readInt()
